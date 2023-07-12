@@ -1,0 +1,403 @@
+
+[2022-01-08 17:07:48] Текст помилки: Немає з`єднання з БД |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Db.php | Рядок: 15
+==================
+[2022-01-08 17:22:26] Текст помилки: Class 'app\controllers\Cache' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\MainController.php | Рядок: 14
+==================
+[2022-01-08 17:24:39] Текст помилки: Call to undefined function ishop\file_exests() |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Cache.php | Рядок: 23
+==================
+[2022-01-08 17:28:07] Текст помилки: Call to undefined function ishop\file_exests() |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Cache.php | Рядок: 35
+==================
+[2022-01-08 17:28:53] Текст помилки: Call to undefined function ishop\file_exests() |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Cache.php | Рядок: 35
+==================
+[2022-01-10 18:03:10] Текст помилки: Не знайдено шаблон default |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 45
+==================
+[2022-01-10 18:23:41] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-10 18:56:49] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-11 21:56:36] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-11 22:21:55] Текст помилки: Контроллер app\controllers\CartController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 00:25:10] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:25:15] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:25:19] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:27:28] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:29:07] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:29:10] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:29:13] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:29:24] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:29:28] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:30:05] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:30:11] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 00:30:21] Текст помилки: Class 'app\widgets\currency\App' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\widgets\currency\Currency.php | Рядок: 17
+==================
+[2022-01-12 01:23:18] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-12 01:26:45] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-12 01:51:10] Текст помилки: Контроллер app\controllers\ProductController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 15:47:10] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 15:47:14] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 15:47:55] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 16:14:32] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 16:24:05] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 17:21:23] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 17:21:29] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 17:25:01] Текст помилки: Контроллер app\controllers\ProductController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-12 17:29:46] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-12 17:41:00] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\ProductController.php | Рядок: 11
+==================
+[2022-01-12 18:17:34] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 17:35:36] Текст помилки: syntax error, unexpected '*' |
+Файл: E:\Programs\OpenServer\domains\myishop\app\views\Product\view.php | Рядок: 114
+==================
+[2022-01-14 17:44:33] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 17:44:52] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 17:44:58] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 19:56:43] Текст помилки: Call to undefined function app\models\array_revesre() |
+Файл: E:\Programs\OpenServer\domains\myishop\app\models\Breadcrumbs.php | Рядок: 25
+==================
+[2022-01-14 20:54:41] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 20:56:11] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 21:16:38] Текст помилки: Контроллер app\controllers\CartController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-14 21:16:55] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 21:21:24] Текст помилки: Контроллер app\controllers\CartController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-14 21:21:30] Текст помилки: Контроллер app\controllers\CartController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-14 21:22:58] Текст помилки: Контроллер app\controllers\CartController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-14 21:32:43] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-14 21:42:55] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/Cart/add.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-14 23:29:15] Текст помилки: Class 'app\controllers\Cart' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CartController.php | Рядок: 21
+==================
+[2022-01-14 23:29:23] Текст помилки: Class 'app\controllers\Cart' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CartController.php | Рядок: 21
+==================
+[2022-01-14 23:29:48] Текст помилки: Class 'app\controllers\Cart' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CartController.php | Рядок: 21
+==================
+[2022-01-15 14:14:09] Текст помилки: Метод app\controllers\CartController::showAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 15:52:11] Текст помилки: Контроллер app\controllers\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-15 17:30:37] Текст помилки: Метод app\controllers\SearchController::indexAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 17:30:40] Текст помилки: Метод app\controllers\SearchController::indexAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 17:31:18] Текст помилки: Метод app\controllers\SearchController::indexAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 17:33:13] Текст помилки: Метод app\controllers\SearchController::indexAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 17:37:31] Текст помилки: Метод app\controllers\SearchController::indexAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 18:13:54] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 18:24:13] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 18:40:31] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 18:41:15] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/Category/view.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-15 18:43:25] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/Category/view.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-15 18:43:38] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 18:44:29] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 18:44:43] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/Category/view.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-15 18:46:03] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 18:47:00] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/Category/view.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-15 18:49:54] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 11
+==================
+[2022-01-15 19:25:33] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/Category/view.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-15 19:29:44] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 19:30:47] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 13
+==================
+[2022-01-15 19:32:44] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\ProductController.php | Рядок: 14
+==================
+[2022-01-15 19:36:57] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 13
+==================
+[2022-01-15 19:37:25] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 13
+==================
+[2022-01-15 22:05:16] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 22:05:52] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 22:05:57] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-15 23:11:32] Текст помилки: Fail to load language file 'E:\Programs\OpenServer\domains\myishop/public/validator/lang/ua.php' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\vlucas\valitron\src\Valitron\Validator.php | Рядок: 118
+==================
+[2022-01-15 23:13:21] Текст помилки: Fail to load language file 'E:\Programs\OpenServer\domains\myishop/public/validator/lang/ru.php' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\vlucas\valitron\src\Valitron\Validator.php | Рядок: 118
+==================
+[2022-01-15 23:13:29] Текст помилки: Fail to load language file 'E:\Programs\OpenServer\domains\myishop/public/validator/lang/ru.php' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\vlucas\valitron\src\Valitron\Validator.php | Рядок: 118
+==================
+[2022-01-15 23:15:33] Текст помилки: Метод app\controllers\UserController::indexAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-15 23:15:55] Текст помилки: Fail to load language file 'E:\Programs\OpenServer\domains\myishop/public/validator/lang/ru.php' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\vlucas\valitron\src\Valitron\Validator.php | Рядок: 118
+==================
+[2022-01-15 23:18:19] Текст помилки: Fail to load language file 'E:\Programs\OpenServer\domains\myishop/public/validator/lang/ru.php' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\vlucas\valitron\src\Valitron\Validator.php | Рядок: 118
+==================
+[2022-01-15 23:21:08] Текст помилки: Fail to load language file 'E:\Programs\OpenServer\domains\myishop/public/validator/lang/ru.php' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\vlucas\valitron\src\Valitron\Validator.php | Рядок: 118
+==================
+[2022-01-15 23:41:19] Текст помилки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206
+==================
+[2022-01-16 01:00:33] Текст помилки: Метод app\controllers\UserController::myishopAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-17 14:28:35] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-17 14:28:35] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-17 16:15:23] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-17 16:15:54] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-17 18:07:12] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-17 18:08:52] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-17 18:09:33] Текст помилки: Invalid type: order_ |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Рядок: 77
+==================
+[2022-01-17 20:02:39] Текст помилки: Call to undefined method app\widgets\filter\Filter::getFilter() |
+Файл: E:\Programs\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 39
+==================
+[2022-01-18 00:23:37] Текст помилки: Контроллер app\controllers\admin\OrderController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:23:42] Текст помилки: Контроллер app\controllers\admin\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:23:46] Текст помилки: Контроллер app\controllers\admin\CategoryController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:23:50] Текст помилки: Контроллер app\controllers\admin\ProductController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:23:53] Текст помилки: Контроллер app\controllers\admin\ProductController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:23:56] Текст помилки: Контроллер app\controllers\admin\CacheController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:23:59] Текст помилки: Контроллер app\controllers\admin\UserController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 00:24:03] Текст помилки: Контроллер app\controllers\admin\UserController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 01:17:49] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/admin\User/login-admin.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-18 01:18:16] Текст помилки: Не знайдено вид E:\Programs\OpenServer\domains\myishop/app/views/admin\User/login-admin.php |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\base\View.php | Рядок: 38
+==================
+[2022-01-18 13:51:44] Текст помилки: Контроллер app\controllers\admin\OrderController не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 43
+==================
+[2022-01-18 15:32:29] Текст помилки: Сторінка не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-18 15:56:06] Текст помилки: Метод app\controllers\admin\UserController::editAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-18 16:51:39] Текст помилки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'myishop.1' doesn't exist |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206
+==================
+[2022-01-18 16:57:09] Текст помилки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'myishop.status' doesn't exist |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206
+==================
+[2022-01-18 16:57:21] Текст помилки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'myishop.status' doesn't exist |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206
+==================
+[2022-01-18 18:58:16] Текст помилки: Метод app\controllers\admin\CategoryController::editAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-18 20:03:36] Текст помилки: Class 'app\widgets\filter\Filter' not found |
+Файл: E:\Programs\OpenServer\domains\myishop\app\views\Category\view.php | Рядок: 18
+==================
+[2022-01-19 16:03:21] Текст помилки: Метод app\controllers\admin\ProductController::addImageAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-19 16:04:41] Текст помилки: Метод app\controllers\admin\ProductController::addImageAction 
+                    не існує |
+Файл: E:\Programs\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 39
+==================
+[2022-01-20 04:46:37] Текст помилки: Немає з`єднання з БД |
+Файл: C:\OpenServer\domains\myishop\vendor\ishop\core\Db.php | Рядок: 15
+==================
+[2022-01-20 04:46:37] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-20 09:49:12] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\vendor\ishop\core\Router.php | Рядок: 46
+==================
+[2022-01-20 11:19:44] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\ProductController.php | Рядок: 14
+==================
+[2022-01-20 11:21:53] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\ProductController.php | Рядок: 14
+==================
+[2022-01-20 12:29:19] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:01] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:05] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:13] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:19] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:27] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:37] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================
+[2022-01-20 12:36:42] Текст помилки: Сторінка не існує |
+Файл: C:\OpenServer\domains\myishop\app\controllers\CategoryController.php | Рядок: 17
+==================

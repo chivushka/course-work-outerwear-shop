@@ -1,0 +1,55 @@
+a:2:{s:4:"data";s:1234:"<li>
+    <a href="/category/men">Чоловікам</a>
+            <ul>
+            <li>
+    <a href="/category/kurtki-men">Куртки</a>
+            <ul>
+            <li>
+    <a href="/category/mango-men">Mango Men</a>
+    </li>
+<li>
+    <a href="/category/h-m-men">H&M Men</a>
+    </li>
+<li>
+    <a href="/category/columbia-men">Columbia Men</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="/category/palto-men">Пальто</a>
+            <ul>
+            <li>
+    <a href="/category/mango-men-11">Mango Men</a>
+    </li>
+<li>
+    <a href="/category/h-m-men-12">H&M Men</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="/category/women">Жінкам</a>
+            <ul>
+            <li>
+    <a href="/category/kurtki-women">Куртки</a>
+            <ul>
+            <li>
+    <a href="/category/columbia-women">Columbia Women</a>
+    </li>
+<li>
+    <a href="/category/mango-women">Mango Women</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="/category/palto-women">Пальто</a>
+            <ul>
+            <li>
+    <a href="/category/zara-women">Zara Women</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+";s:8:"end_time";i:1642674497;}
